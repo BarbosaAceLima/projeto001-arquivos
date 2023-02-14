@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c51212c5-6ea4-498e-a43c-992a18f7e4ab" name="Changes" comment="" />
+    <list default="true" id="c51212c5-6ea4-498e-a43c-992a18f7e4ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arquivos/arquivo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/projeto001-arquivos/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/projeto001-arquivos/entitdades/Assunto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/projeto001-arquivos/entitdades/Biblioteca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/projeto001-arquivos/entitdades/Livro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projeto001-arquivos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entitdades/Assunto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entitdades/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entitdades/Livro.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
