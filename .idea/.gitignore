@@ -1,14 +1,3 @@
-# Arquivos binários
-*.class
-*.jar
-
-# Logs e arquivos de backup
-*.log
-*.bak
-
-# Arquivos de configuração do IntelliJ
-.idea/
-
-# Outros
-.DS_Store
-Thumbs.db
+target/
+*.iml
+.idea/*

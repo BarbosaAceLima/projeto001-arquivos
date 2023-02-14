@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c51212c5-6ea4-498e-a43c-992a18f7e4ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arquivos/arquivo.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/projeto001-arquivos/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/projeto001-arquivos/entitdades/Assunto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/projeto001-arquivos/entitdades/Biblioteca.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/projeto001-arquivos/entitdades/Livro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projeto001-arquivos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entitdades/Assunto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entitdades/Biblioteca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entitdades/Livro.java" afterDir="false" />
-    </list>
+    <list default="true" id="c51212c5-6ea4-498e-a43c-992a18f7e4ab" name="Changes" comment="Projeto para manipulação de arquivos em java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,12 +23,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,6 +38,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676316022820</updated>
     </task>
+    <task id="LOCAL-00001" summary="Projeto para manipulação de arquivos em java">
+      <created>1676335772004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676335772004</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto para manipulação de arquivos em java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto para manipulação de arquivos em java" />
   </component>
 </project>
