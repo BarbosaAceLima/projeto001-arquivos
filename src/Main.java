@@ -44,7 +44,7 @@ public class Main {
                 livros = Biblioteca.buscarLivros(path);
                 livros.forEach(System.out::println);
             }
-            default -> System.out.println("Opção inválida");
+            default -> System.out.println("Refaça a operação digitando 1 para cadastrar ou 2 para consultar");
         }
 
 
